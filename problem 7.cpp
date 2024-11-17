@@ -37,7 +37,7 @@ int main() {
 	                    }
 	                }
 	            }
-	        } else if (DULUR == 'U') {  // Move Up
+	        } else if (DULUR == 'U') { 
 	            for (int j = 0; j < M; j++) {
 	                int grid_kosong = 0;
 	                for (int i = 0; i < N; i++) {
