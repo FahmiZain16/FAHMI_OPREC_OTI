@@ -33,7 +33,6 @@ int main() {
         }
     }
 
-    // Cetak hasil
     for (const string& result : hasil) {
         cout << result << endl;
     }
